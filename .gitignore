@@ -1,0 +1,11 @@
+# Google OAuth secrets
+wealth_app/credentials.json
+wealth_app/token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/

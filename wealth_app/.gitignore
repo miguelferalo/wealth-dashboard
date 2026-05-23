@@ -1,0 +1,12 @@
+# Never commit credentials
+*.json
+token.json
+credentials.json
+service_account.json
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
